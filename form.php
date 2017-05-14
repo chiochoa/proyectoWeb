@@ -342,7 +342,7 @@
         </div>
         <label for="mail">Correo Electrónico</label>
         <div class="input-group">
-            <input type="email">
+            <input id="mail" type="email">
         </div>
         <button class="btn btn-primary">Siguiente</button>
     </div>
