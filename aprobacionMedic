@@ -11,10 +11,10 @@
 										
 			<div class="form-group">
 				<label class=""> Personas que dependen económicamente de usted:</label><br>
-					<input type="radio" name="personas" value="si"> 1 a 2<br>
-					<input type="radio" name="personas" value="no"> 2 a 4<br>
-					<input type="radio" name="personas" value="si"> Más de 4<br>
-					<input type="radio" name="personas" value="no"> Ninguna<br>
+					<input type="radio" name="personas" value="1"> 1 a 2<br>
+					<input type="radio" name="personas" value="2"> 2 a 4<br>
+					<input type="radio" name="personas" value="3"> Más de 4<br>
+					<input type="radio" name="personas" value="0"> Ninguna<br>
 			</div>
 			
 			<!-- opcion 1	 -->		
